@@ -14,11 +14,13 @@ The application has the following workflow:
 2.	Visitors can view all posts, sorted
 
   a.	The visitor chooses how the posts to be sorted:
-    •	By date or by title (alphabetically)
-    •	Ascending or descending
+  
+    -	By date or by title (alphabetically)
+    - Ascending or descending
   b.	The visitor can see the posts in pages. Each page contains N posts
-    •	N is provided by the visitor
-    •	Visitors can navigate through the pages (previous or next)
+
+    -	N is provided by the visitor
+    -	Visitors can navigate through the pages (previous or next)
 3.	Visitors can register a user
 
   a.	Providing a username and a password
