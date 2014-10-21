@@ -1,11 +1,13 @@
 Crowd-Share-JavaScript-App
 ==========================
 
-JavaScript app designed for users to register, login, create posts, view posts, view posts by some criteria.
-CSS to be added.
+Crowd Share Description:
+ - JavaScript app designed for users to register, login, create posts, view posts, view posts by some criteria.
+ - Visitors must register in order to post to the Crowd Share application.
+ - CSS to be added.
+ - Frameworks used: jQuery, RequireJS, Q, Mustache, Sammy,  CryptoJS
 
-Crowd Share Description
-Visitors must register in order to post to the Crowd Share application. 
+
 The application has the following workflow:
 
 1.	Visitors enter the application
