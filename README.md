@@ -2,6 +2,7 @@ Crowd-Share-JavaScript-App
 ==========================
 
 JavaScript app designed for users to register, login, create posts, view posts, view posts by some criteria.
+CSS to be added.
 
 Crowd Share Description
 Visitors must register in order to post to the Crowd Share application. 
